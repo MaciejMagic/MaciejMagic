@@ -1,7 +1,7 @@
-<h2> ✋ Hello 🤚 </h2>
+<h2 align="center"> ✋ Hello 🤚 </h2>
 
 
-<details><summary><b>Tech Stack</b></summary>
+<details align="center"><summary><b>Tech Stack</b></summary>
 	
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
