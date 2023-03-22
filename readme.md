@@ -1,4 +1,4 @@
-<h2 align="center"> ✋ Hello 🤚 </h2>
+<h1 align="center"> ✋ Hello 🤚 </h1>
 
 
 <!-- <details align="center"><summary><b>Tech Stack</b></summary>
@@ -20,13 +20,13 @@
 
 </details> -->
 
-<summary align="center"><b>My tech stack</b></summary>
+<h2 align="center"><b>My tech stack</b></h2>
 	
-### Languages, Frameworks, Libraries, Tools
+<h3>Languages, Frameworks, Libraries and Tools in use: </h3>
 * Python
-* C
-* HTML/CSS/JavaScript
 * Flask
+* HTML/CSS/JavaScript
+* C
 * Git, GitHub, SQL (sqlite3)
 
 
