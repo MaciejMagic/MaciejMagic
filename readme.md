@@ -22,7 +22,7 @@
 
 <h2 align="center"><b>My tech stack</b></h2>
 	
-<h3>Languages, Frameworks, Libraries and Tools in use: </h3>
+<summary>Languages, Frameworks, Libraries and Tools in use: </summary>
 * Python
 * Flask
 * HTML/CSS/JavaScript
