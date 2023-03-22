@@ -22,12 +22,13 @@
 
 <h2 align="center"><b>My tech stack</b></h2>
 	
-Languages, Frameworks, Libraries and Tools in use:
+Languages / Frameworks / Libraries / Tools in use:
 * Python
 * Flask
+* SQL
 * HTML/CSS/JavaScript
 * C
-⋅⋅⋅Git, GitHub, SQL (sqlite3)
+* Git, GitHub, VSCode
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
