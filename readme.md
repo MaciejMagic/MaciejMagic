@@ -22,13 +22,13 @@
 
 <h2 align="center"><b>My tech stack</b></h2>
 	
-<summary>Languages, Frameworks, Libraries and Tools in use: </summary>
+<details>Languages, Frameworks, Libraries and Tools in use:
 * Python
 * Flask
 * HTML/CSS/JavaScript
 * C
 * Git, GitHub, SQL (sqlite3)
-
+</details>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciejmagic&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
