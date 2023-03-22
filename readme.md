@@ -20,18 +20,14 @@
 
 </details> -->
 
-<summary align="center"><b>Tech stack</b></summary>
+<summary align="center"><b>My tech stack</b></summary>
 	
-### Languages
+### Languages, Frameworks, Libraries, Tools
 * Python
 * C
-- HTML/CSS/JavaScript
-
-### Frameworks
-Flask
-
-### Tools
-Git, GitHub, Visual Studio Code
+* HTML/CSS/JavaScript
+* Flask
+* Git, GitHub, SQL (sqlite3)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
