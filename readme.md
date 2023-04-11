@@ -20,15 +20,17 @@
 
 </details> -->
 
-<h2 align="center"><b>My tech stack</b></h2>
+A computer science enthusiast / beginner Python programmer
+
+<h2 align="left"><b>My tech stack</b></h2>
 	
-Languages / Frameworks / Libraries / Tools in use:
+Tools in use:
 * Python
-* Flask
+	* Flask
 * SQL
-* HTML/CSS/JavaScript
 * C
-* Git, GitHub, VSCode
+* HTML, CSS + Bootstrap, JavaScript
+* Git, GitHub
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
