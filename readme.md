@@ -1,4 +1,4 @@
-<h1 align="center"> ✋ Hello 🤚 </h1>
+<h1 align="center"> 👋🤓 Hello </h1>
 
 
 <!-- <details align="center"><summary><b>Tech Stack</b></summary>
@@ -20,9 +20,10 @@
 
 </details> -->
 
-I'm an information tech and computer science enthusiast. Beginner Python programmer 🐍
+I'm an information tech and computer science enthusiast. Beginner software developer / Python programmer 🐍
+Meticulously trying to learn something new everyday 📚
 
-<h3 align="left"><b>Familiar technologies:</b></h3>
+<h3 align="left"><b>Technologies in use:</b></h3>
 	
 * Python
 	* Flask
@@ -39,8 +40,8 @@ I'm an information tech and computer science enthusiast. Beginner Python program
 
 <h3 align="left"><b>I'm familiar with (and learning):</b></h3>
 
-* Docker
 * Linux
+* Docker
 
 
 
