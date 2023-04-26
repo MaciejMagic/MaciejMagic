@@ -36,10 +36,10 @@ I'm an information tech and computer science enthusiast. Beginner Python program
 	* JavaScript
 * Git
 * Comfortable with: Windows and MacOS
-
 <h3 align="left"><b>I'm familiar with (and learning):</b></h3>
 * Docker
 * Linux
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
