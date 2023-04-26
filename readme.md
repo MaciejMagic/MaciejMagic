@@ -21,6 +21,7 @@
 </details> -->
 
 I'm an information tech and computer science enthusiast. Beginner software developer / Python programmer 🐍
+
 Meticulously trying to learn something new everyday 📚
 
 <h3 align="left"><b>Technologies in use:</b></h3>
