@@ -20,16 +20,26 @@
 
 </details> -->
 
-I'm an IT / computer science enthusiast / beginner Python programmer
+I'm an information tech and computer science enthusiast. Beginner Python programmer 🐍
 
-<h3 align="left"><b>My tech stack</b></h3>
+<h3 align="left"><b>Familiar technologies:</b></h3>
 	
 * Python
 	* Flask
-* SQL (SQLite 3, PostgreSQL)
+* SQL
+	* SQLite 3
+	* PostgreSQL
 * C
-* HTML, CSS + Bootstrap, JavaScript
+* Web tech: 
+	* HTML
+	* CSS + Bootstrap
+	* JavaScript
 * Git
+* Comfortable with: Windows and MacOS
+
+<h3 align="left"><b>I'm familiar with (and learning):</b></h3>
+* Docker
+* Linux
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
