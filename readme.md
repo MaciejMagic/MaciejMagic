@@ -20,7 +20,7 @@
 
 </details> -->
 
-I'm a computer science enthusiast / beginner Python programmer
+I'm an IT / computer science enthusiast / beginner Python programmer
 
 <h3 align="left"><b>My tech stack</b></h3>
 	
