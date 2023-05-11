@@ -20,7 +20,7 @@
 
 </details> -->
 
-I'm an information tech and computer science enthusiast. Beginner software developer / Python programmer 🐍
+I'm an information tech and computer science enthusiast. Beginner software developer with Python
 
 
 Meticulously trying to learn something new everyday 📚
@@ -38,11 +38,9 @@ Meticulously trying to learn something new everyday 📚
 	* CSS + Bootstrap
 	* JavaScript
 * Git
-* Comfortable with: Windows and MacOS
 
 <h3 align="left"><b>I'm familiar with (and learning):</b></h3>
 
-* Linux
 * Docker
 
 
