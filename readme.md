@@ -23,8 +23,6 @@
 I'm an information tech and computer science enthusiast. Beginner software developer with Python
 
 
-Meticulously trying to learn something new everyday 📚
-
 <h3 align="left"><b>Technologies in use:</b></h3>
 	
 * Python
@@ -46,7 +44,7 @@ Meticulously trying to learn something new everyday 📚
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciejmagic&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciejmagic&count_private=false&show_icons=true&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciejmagic&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
