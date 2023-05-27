@@ -1,4 +1,4 @@
-<h1 align="center"> 👋🤓 Hello </h1>
+<h1 align="center"> 👋 Hello </h1>
 
 
 <!-- <details align="center"><summary><b>Tech Stack</b></summary>
@@ -20,14 +20,14 @@
 
 </details> -->
 
-I'm an information tech and computer science enthusiast. Beginner software developer with Python
+I'm a computer science and information technologies enthusiast. Beginner software developer
 
 
 <h3 align="left"><b>Technologies in use:</b></h3>
 	
-* Python
+* Python 3
 	* Flask
-* SQL
+* Databases
 	* SQLite 3
 	* PostgreSQL
 * C
@@ -37,14 +37,14 @@ I'm an information tech and computer science enthusiast. Beginner software devel
 	* JavaScript
 * Git
 
-<h3 align="left"><b>I'm familiar with (and learning):</b></h3>
+<h3 align="left"><b>I'm familiar with and learning further aobut:</b></h3>
 
-* Docker
+* Linux, Docker, Networking and Security
 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciejmagic&count_private=false&show_icons=true&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciejmagic&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciejmagic&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
