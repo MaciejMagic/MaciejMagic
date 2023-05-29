@@ -20,8 +20,9 @@
 
 </details> -->
 
-I'm a computer science and information technologies enthusiast. Beginner software developer
+I'm a computer science and information technologies enthusiast. Self-taught software dev aspiring to be a pro.
 
+![](https://gfycat.com/affectionatedesertedgoa)
 
 <h3 align="left"><b>Technologies in use:</b></h3>
 	
@@ -37,7 +38,7 @@ I'm a computer science and information technologies enthusiast. Beginner softwar
 	* JavaScript
 * Git
 
-<h3 align="left"><b>I'm familiar with and learning further aobut:</b></h3>
+<h3 align="left"><b>I'm familiar with basics and learning further about:</b></h3>
 
 * Linux, Docker, Networking and Security
 
