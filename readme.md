@@ -22,30 +22,27 @@
 
 I'm a computer science and information technologies enthusiast. Self-taught software dev aspiring to be a pro.
 
-![](https://gfycat.com/affectionatedesertedgoa)
-
 <h3 align="left"><b>Technologies in use:</b></h3>
 	
-* Python 3
+* Python
 	* Flask
 * Databases
-	* SQLite 3
+	* SQLite
 	* PostgreSQL
 * C
 * Web tech: 
-	* HTML
-	* CSS + Bootstrap
+	* HTML, CSS, Bootstrap
 	* JavaScript
 * Git
 
 <h3 align="left"><b>I'm familiar with basics and learning further about:</b></h3>
 
-* Linux, Docker, Networking and Security
+* Docker, Networking and Security
 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciejmagic&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciejmagic&count_private=false&show_icons=true&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciejmagic&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
