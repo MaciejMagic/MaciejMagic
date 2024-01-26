@@ -20,24 +20,25 @@
 
 </details> -->
 
-I'm a computer science and information technologies enthusiast. Self-taught software dev aspiring to be a pro.
+I'm a computer science and IT enthusiast. Self-taught software dev.
 
 <h3 align="left"><b>Technologies in use:</b></h3>
 	
 * Python
-	* Flask
+	+ Flask
 * Databases
 	* SQLite
 	* PostgreSQL
+ 	* MongoDB
 * C
-* Web tech: 
+* Web tech:
 	* HTML, CSS, Bootstrap
 	* JavaScript
 * Git
 
 <h3 align="left"><b>I'm familiar with basics and learning further about:</b></h3>
 
-* Docker, Networking and Security
+* Docker Swarm, K8s
 
 
 
